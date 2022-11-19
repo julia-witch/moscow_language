@@ -1,6 +1,7 @@
 .page {
     background-color: var(--main-fon);
     width: 100%;
+    color: white;
     font-family: 'Inter', serif;
     font-style: normal;
     font-weight: 400;

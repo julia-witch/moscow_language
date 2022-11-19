@@ -4,3 +4,17 @@
 
 @import "../blocks/page/page.css";
 @import "../blocks/container/container.css";
+@import "../blocks/main/main.css";
+
+@import "../blocks/promo/promo.css";
+@import "../blocks/promo/__image/promo__image.css";
+
+@import "../blocks/title/title.css";
+@import "../blocks/title/_small/title_small.css";
+
+@import "../blocks/text/text.css";
+@import "../blocks/text/_small/text_small.css";
+
+@import "../blocks/before/before.css";
+
+@import "../blocks/highlighted/highlighted.css";
