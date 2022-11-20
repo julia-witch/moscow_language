@@ -1,0 +1,28 @@
+@import "../vendor/normalize.css";
+@import "../vendor/fonts.css";
+@import "../variables.css";
+
+@import "../blocks/page/page.css";
+@import "../blocks/container/container.css";
+@import "../blocks/main/main.css";
+
+@import "../blocks/promo/promo.css";
+@import "../blocks/promo/__image/promo__image.css";
+
+@import "../blocks/title/title.css";
+@import "../blocks/title/_small/title_small.css";
+
+@import "../blocks/text/text.css";
+@import "../blocks/text/_small/text_small.css";
+
+@import "../blocks/before/before.css";
+
+@import "../blocks/highlighted/highlighted.css";
+
+@import "../blocks/carousel/carousel.css";
+@import "../blocks/carousel/__description/carousel__description.css";
+@import "../blocks/carousel/__image/carousel__image.css";
+@import "../blocks/carousel/__item/carousel__item.css";
+@import "../blocks/carousel/__title/carousel__title.css";
+
+@import "../blocks/pronunciation/pronunciation.css";
